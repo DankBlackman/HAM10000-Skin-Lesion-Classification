@@ -64,4 +64,4 @@ A seven-class skin lesion image classification project using deep learning and t
 This is an educational machine learning project. Performance varies across classes, and the model has not been clinically validated for medical diagnosis.
 
 ## Implementation
-The complete implementation, including preprocessing, model training and evaluation, is available in `HAM10000_Classification.ipynb`.
+The complete implementation, including preprocessing, model training and evaluation, is available in `HAM10000_SkinLesion_Classification.ipynb`.
